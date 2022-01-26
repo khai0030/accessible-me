@@ -74,3 +74,6 @@ form button {
 .current a{
   background: white;
 }
+ body p{
+   font-weight: normal;
+ }
